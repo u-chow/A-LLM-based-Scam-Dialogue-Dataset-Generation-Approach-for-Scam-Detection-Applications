@@ -50,7 +50,7 @@ confirming that GPT-4-generated conversations were linguistically indistinguisha
 - Downstream use: fine-tuning a scam classifier with generated data improved F1 score by approximately 5 %
 
 For detailed results, see  
-[Appendix A – Experimental Results (Full Version)]([./docs/Appendix_Experimental_Results.md](https://github.com/u-chow/A-LLM-based-Scam-Dialogue-Dataset-Generation-Approach-for-Scam-Detection-Applications/blob/main/docs/Appendix_Experimental_Results.md))
+[Appendix A – Experimental Results (Full Version)](https://github.com/u-chow/A-LLM-based-Scam-Dialogue-Dataset-Generation-Approach-for-Scam-Detection-Applications/blob/main/docs/Appendix_Experimental_Results.md)
 
 ---
 
