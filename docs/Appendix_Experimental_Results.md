@@ -129,6 +129,6 @@ This appendix provides detailed evidence supporting the scalability, reproducibi
 ---
 
 > **Citation:**  
-> Cheng, Y.-C. (2025). *A LLM-based Scam Dialogue Dataset Generation Approach for Scam Detection Applications.*  
+> Cheng, Y.-C., & Chi, B.-W. (2025). *A LLM-based Scam Dialogue Dataset Generation Approach for Scam Detection Applications.*  
 > Supplementary Appendix – Experimental Results.  
 > GitHub Repository: [https://github.com/uchow/LLM-ScamDialogue-Framework](https://github.com/uchow/LLM-ScamDialogue-Framework)
